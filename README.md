@@ -24,8 +24,11 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 🧠 Usage
 1. Run the Streamlit App
+in cmd 
 
 streamlit run app.py
+
+
 2. Open Your Browser
 Go to: http://localhost:8501
 
