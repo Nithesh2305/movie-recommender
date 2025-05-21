@@ -18,7 +18,7 @@ def download_file(url, filename):
             st.error(f"Failed to download {filename}: {e}")
 
 # --------- Google Drive File Links (Replace with your actual file IDs) ---------
-MOVIE_PKL_URL = "https://drive.google.com/uc?export=download&id=1F6miXjnd2CeG4QIksJAq4MAFJGpKxMmi"
+MOVIE_PKL_URL = "https://drive.google.com/uc?export=download&id=1uThfklSmAEp8pt040T8uj8edUboBHooR"
 CREDITS_CSV_URL = "https://drive.google.com/uc?export=download&id=1lOZn0nWIEDi0qIULkHuauwt3ylGuzxeC"
 MOVIES_CSV_URL = "https://drive.google.com/uc?export=download&id=1Va8IoUav-nbB-nWLesN2hTd2Q0iVizIY"
 
